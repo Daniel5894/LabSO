@@ -1,0 +1,4 @@
+Este é o arquivo exemplo n.1
+Este é o arquivo exemplo n.2
+Este é o arquivo exemplo n.3
+Será inserido uma quarta linha no arquivo
